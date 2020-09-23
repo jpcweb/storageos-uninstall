@@ -1,11 +1,11 @@
 # Uninstall StorageOS
 
-### Informations
+### Information
 StorageOS => [Link](https://docs.storageos.com)
 
-This shell script helps you to remove StorageOS from your **Kubernetes** cluster.
-It's also useful if you want to reinstall it.
-Tested with StorageOS v2.2.0 and Kubernetes v1.18.
+This shell script helps you to remove StorageOS from your **Kubernetes** cluster.<br/>
+It's also useful if you want to reinstall it.<br/>
+Tested with StorageOS v2.2.0 and Kubernetes v1.18.<br/>
 
 ```bash
 # If you want to remove the operator you'll need the storageos-operator.yaml
